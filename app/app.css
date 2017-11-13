@@ -267,10 +267,19 @@ header ul li a i.material-icons {
 /* Map Page UI */
 
 /* About Page UI */
+.page {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  overflow-x: hidden;
+  overflow-y: scroll;
+}
+
 .container {
   width: calc(100% - 10em);
   margin: 1em auto;
-
 }
 
 .container h3 {
@@ -296,6 +305,10 @@ header ul li a i.material-icons {
   border: 1px solid #afafaf;
   font-weight: normal; 
   background-color: #eee;
+}
+
+.container ul {
+  word-wrap: break-word; 
 }
 
 .container a {

@@ -35,7 +35,7 @@ controller('mapController', function ($scope, $rootScope, $http, $compile) {
             
         marker = new google.maps.Marker(markerOptions);
         $mapData.markers.push(marker); // add marker to array
-  
+        
         google.maps.event.addListener(marker, 'click', function() {
           // close window if not undefined
           if ($mapData.infoWindow) {
@@ -57,14 +57,21 @@ controller('mapController', function ($scope, $rootScope, $http, $compile) {
       createInfoWindowContent: function(title, description) {
         var $mapData = $rootScope.globalData.mapData, 
           infoWindowStr = $mapData.infoWindowStr,
-          titleArr = title.split('|');
+          titleArr = title.split('|'),
+          compiledCode;
         
         infoWindowStr[2] = titleArr[0];
         infoWindowStr[5] = description;
-        infoWindowStr[9] = titleArr[1];
-        infoWindowStr[11] = titleArr[2];
+        if (title == 'My Location') {
+          var tempArr = infoWindowStr.slice(0);
+          tempArr.splice(7, 7);
+          compiledCode = $compile(tempArr.join(''))($scope);
+        } else {
+          infoWindowStr[9] = titleArr[1];
+          infoWindowStr[11] = titleArr[2];
+          compiledCode = $compile(infoWindowStr.join(''))($scope);
+        }
         
-        var compiledCode = $compile(infoWindowStr.join(''))($scope);
         return compiledCode[0];
       },
       loadLocation: function(callback) {
