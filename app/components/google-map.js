@@ -4,7 +4,7 @@ controller('mapController', function ($scope, $rootScope, $http, $compile) {
     mapData : {
       map: null,
       markers: [], 
-      locationsDataURL: '/assets/data/malls-kl.json',
+      locationsDataURL: 'assets/data/malls-kl.json',
       locationsData: {},
       infoWindow: null,
       infoWindowStr: ['<div class="pin-panel">',
