@@ -1,6 +1,6 @@
 angular.module('descriptionPanelComponent', []).
 component('descriptionPanel', {
-  templateUrl: '/components/description-panel/description-panel.html',
+  templateUrl: 'components/description-panel/description-panel.html',
   bindings: {
     locationObj: '='
   }
