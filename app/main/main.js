@@ -28,7 +28,7 @@ angular.module('myApp.main', ['ngRoute'])
         name: key,
         address: data[key].address,
         description: data[key].description,
-        imageURL: '/assets/img/' + data[key].imageURL,
+        imageURL: 'assets/img/' + data[key].imageURL,
       };
       
       $scope.globalData.allowShowOverlay = true;

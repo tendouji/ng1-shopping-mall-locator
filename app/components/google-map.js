@@ -29,7 +29,7 @@ controller('mapController', function ($scope, $rootScope, $http, $compile) {
           title: (title.split('|'))[0],
           icon: pinImg
         };
-        var clusterUrl = '/assets/img/m',
+        var clusterUrl = 'assets/img/m',
           mcOptions = { imagePath: clusterUrl },
           markerCluster = new MarkerClusterer($mapData.map, [], mcOptions);
             
@@ -88,7 +88,7 @@ directive('googleMap', function () {
   // directive link function
   var link = function ($scope, element, attrs) {
     var map, infoWindow;
-    var pinUrl = '/assets/img/green-pin.png';
+    var pinUrl = 'assets/img/green-pin.png';
 
     // map config @ kuala lumpur
     var mapOptions = {

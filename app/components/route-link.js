@@ -22,7 +22,7 @@ controller('routeController', function ($scope, $rootScope) {
       $scope.globalData.setGPS = true;
     });
 
-    var pinUrl = '/assets/img/red-pin.png';
+    var pinUrl = 'assets/img/red-pin.png';
     $scope.globalFunction.mapFunction.setMarker(position.coords.latitude, position.coords.longitude, 'My Location', 'We found you here!', pinUrl);
 
     var center = new google.maps.LatLng(position.coords.latitude, position.coords.longitude);
