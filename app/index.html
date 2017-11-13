@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html lang="en" ng-app="myApp" class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html lang="en" ng-app="myApp" class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html lang="en" ng-app="myApp" class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en" ng-app="myApp" class="no-js"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Simple AngularJS Map App</title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+  <link rel="stylesheet" href="bower_components/html5-boilerplate/dist/css/normalize.css">
+  <link rel="stylesheet" href="bower_components/html5-boilerplate/dist/css/main.css">
+  <link rel="stylesheet" href="app.css">
+  <script src="bower_components/html5-boilerplate/dist/js/vendor/modernizr-2.8.3.min.js"></script>
+</head>
+<body ng-app="">
+  <header>
+    <nav>
+      <ul>
+        <li>
+          <a href="#/main" class="main-link" active-link="active"><i class="material-icons">timelapse</i></a>
+        </li>
+        <li ng-controller="routeController">
+          <a ng-click="getCurrentLocation($event)" class="location-link" ng-class="globalData.isLocatorDisabled? 'disabled':''">
+            <span ng-if="globalData.setGPS"><i class="material-icons">gps_fixed</i></span>
+            <span ng-if="!globalData.setGPS"><i class="material-icons">gps_not_fixed</i></span>
+          </a>
+        </li>
+        <li>
+          <a href="#/about" class="about-link" active-link="active"><i class="material-icons">textsms</i></a>
+        </li>
+      </ul>
+    </nav>
+  </header>
+  
+  <div ng-view></div>
+
+  <!-- In production use: -->
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.11/angular.min.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.11/angular-route.min.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.11/angular-sanitize.js"></script>
+  <!-- -->
+  <!-- --
+    <script src="bower_components/angular/angular.js"></script>
+    <script src="bower_components/angular-route/angular-route.js"></script> 
+  <!- -->
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDPlLBGhR5qyvabD84CgjIzDeQs8U2j0i0&sensor=false&extension=.js"></script>
+  <script src="assets/js/google.marker.clusterer.js"></script>
+  <script src="app.js"></script>
+  <script src="components/route-link.js"></script>
+  <script src="components/google-map.js"></script>
+  <script src="components/description-panel/description-panel.js"></script>
+  <script src="main/main.js"></script>
+  <script src="about/about.js"></script>
+  <script src="components/version/version.js"></script>
+  <script src="components/version/version-directive.js"></script>
+  <script src="components/version/interpolate-filter.js"></script>
+</body>
+</html>

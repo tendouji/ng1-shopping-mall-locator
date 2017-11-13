@@ -1,0 +1,311 @@
+/* app css stylesheet */
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  overflow: hidden;
+  font-size: 13px;
+  background-color: #f5eef7;
+}
+
+/* Header UI */
+header {
+  position: fixed;
+  top: 1em;
+  left: 0;
+  width: 2.5rem;
+  border-radius: 0 5px 5px 0;
+  z-index: 1;
+}
+
+header nav {
+  display: block;
+}
+
+header ul {
+  display: block;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+header ul li {
+  display: block;
+  margin-bottom: 1px;
+  text-align: center;
+}
+
+header ul li:last-child {
+  margin-bottom: 0;
+  border-radius: 0 0 5px 0;
+}
+
+header ul li a {
+  position: relative;
+  display: block;
+  line-height: 2.5rem;
+  color: #fff;
+  background: #8888eb;
+  cursor: pointer;
+}
+
+header ul li a.disabled {
+  color: #ccc;
+  background: #afafaf;
+  cursor: default;
+}
+
+header ul li a:before, 
+header ul li a:after {
+  visibility: hidden;
+  position: absolute;
+  opacity: 0;
+  transition: left 300ms, opacity 300ms, visibility 300ms;
+}
+
+header ul li a:before {
+  top: 0;
+  left: calc(90% + 7px);
+  padding: 0 10px;
+  border-radius: 5px; 
+  line-height: 2.5rem;
+  white-space: nowrap;
+  color: #fff;
+  font-size: 0.9em;
+  background: #2e2e2e;
+  content: 'Title';
+}
+
+header ul li a.main-link:before {
+  content: 'Go To Map';
+}
+
+header ul li a.location-link:before {
+  content: 'Get My Location';
+}
+
+header ul li a.about-link:before {
+  content: 'About This Project';
+}
+
+header ul li a:after {
+  top: 50%;
+  left: calc(90% - 8px);
+  height: 0;
+  width: 0;
+  margin-top: -8px;
+  border: 8px solid transparent;
+  border-right: 8px solid #2e2e2e;
+  content: '';
+}
+
+header ul li a:hover {
+  background: #aaaaf7;
+}
+
+header ul li a.disabled:hover {
+  background: #afafaf;
+}
+
+header ul li a:hover:after,
+header ul li a:hover:before {
+  visibility: visible;
+  opacity: 1;
+}
+
+header ul li a:hover:before {
+  left: calc(100% + 7px);
+}
+
+header ul li a:hover:after {
+  left: calc(100% - 8px);
+}
+
+header ul li a.active {
+  background: #ebdb4e;
+}
+
+header ul li:first-child a {
+  border-radius: 0 5px 0 0;
+}
+
+header ul li:last-child a {
+  border-radius: 0 0 5px 0;
+}
+
+header ul li a i.material-icons {
+  vertical-align: middle;
+}
+/* Header UI */
+
+/* Map Page UI */
+.google-map-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: #555;
+}
+
+.google-map-container #googleMaps {
+  width: 100%;
+  height: 100%;
+}
+
+.pin-panel {
+  min-width: 100px;
+}
+
+.pin-panel h3 {
+  margin: 0 0 5px;
+}
+
+.pin-panel .action-area {
+  margin: 10px 0 0;
+}
+
+.pin-panel .action-area a {
+  color: #ff9100;
+  font-size: .9em;
+  font-weight: bold;
+  text-transform: uppercase;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.pin-panel .action-area a i.material-icons {
+  font-size: 1.2em;
+  vertical-align: middle;
+}
+
+.description-panel {
+  position: absolute;
+  left: 0;
+  bottom: -100%;
+  height: auto;
+  width: 100%;
+  padding: 15px 20px;
+  box-sizing: border-box;
+  color: #fff;
+  background: #555;
+  transition: bottom 300ms;
+}
+
+.description-panel.show {
+  bottom: 0;
+}
+
+.description-panel h3.title {
+  margin: 0 0 10px;
+  font-weight: normal;
+  color: #ebdb4e;
+}
+
+.description-panel h3.title i.material-icons {
+  vertical-align: text-top;
+  font-size: 1.2em;
+}
+
+.description-panel .content:after {
+  display: block;
+  clear: both;
+  contain: '';
+}
+
+.description-panel .image-area {
+  float: left;
+  width: 150px;
+  height: 0;
+  padding-bottom: 150px;
+  background: center no-repeat / cover;
+}
+
+.description-panel .text-area {
+  float: right;
+  width: calc(100% - 170px);  
+}
+
+.description-panel .text-area .address-area {
+  margin-bottom: 10px;
+  color: #afafaf;
+  font-size: 0.9em;  
+}
+
+.description-panel .text-area .description-area {
+  font-size: 0.8em;  
+}
+
+.description-panel .close-description {
+  display: block;
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.description-panel .close-description i.material-icons {
+  vertical-align: bottom;
+}
+
+.overlay-panel {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background: rgba(0,0,0,0.4);
+}
+
+.overlay-panel.show {
+  display: block;
+}
+/* Map Page UI */
+
+/* About Page UI */
+.container {
+  width: calc(100% - 10em);
+  margin: 1em auto;
+
+}
+
+.container h3 {
+  color: #8888eb;
+}
+
+.container h3 i.material-icons {
+  display: inline-block;
+  height: 1.4em;
+  width: 1.4em;
+  border-radius: 50%;
+  color: #fff;
+  text-align: center;
+  line-height: 1.4em;
+  font-size: 1.7em;
+  vertical-align: middle;
+  background-color: #8888eb;
+}
+
+.container b {
+  padding: 0 2px;
+  border-radius: 2px;
+  border: 1px solid #afafaf;
+  font-weight: normal; 
+  background-color: #eee;
+}
+
+.container a {
+  color: #ff9100;
+  text-decoration: none;
+  cursor: pointer;
+  border-bottom: 1px dotted;
+}
+
+.container a i.material-icons {
+  font-size: 1em;
+  vertical-align: text-top;
+}

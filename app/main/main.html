@@ -1,0 +1,10 @@
+<div class="google-map-container" ng-controller="mapController">
+  <div google-map=""></div>
+  
+  <ng-container ng-controller="mainController">
+    <div class="overlay-panel" ng-click="hideDescription()" ng-class="globalData.allowShowOverlay? 'show':''"></div>
+    <div class="description-panel" ng-class="globalData.allowShowDescription? 'show':''">
+      <description-panel location-obj="locationObj"></description-panel>
+    </div>
+  </ng-container>
+</div>

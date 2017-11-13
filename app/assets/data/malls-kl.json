@@ -1,0 +1,367 @@
+{
+  "Kuala Lumpur": [
+    {
+      "1 Shamelin Shopping Centre": {
+        "address": "Taman Shamelin Perkasa,<br>55300 Kuala Lumpur,<br>Wilayah Persekutuan Kuala Lumpur",
+        "description": "Vestibulum nec augue sem. Morbi ut porta ante, et ullamcorper erat. Etiam tincidunt, augue vitae consectetur bibendum, nulla enim pharetra quam, vitae ultricies leo dui sit amet mi. Proin ornare sapien vel metus interdum, at faucibus tellus sollicitudin. Phasellus eget nulla ac lacus faucibus tempus. Donec ante erat, cursus sit amet vulputate quis, iaculis eu diam. Sed pellentesque tortor ligula, ac euismod mauris accumsan et. Aliquam eu ultrices odio. Nulla lobortis vestibulum enim, ac semper magna ultrices ut.",
+        "imageURL": "sample-mall-1.jpg",
+        "coordinate": {
+          "lat": 3.12199,
+          "lng": 101.739964
+        }
+      }
+    },
+    {
+      "AEON Metro Prima Shopping Centre": {
+        "address": "Jalan Metro Prima,<br>Taman Kepong,<br>52100 Kuala Lumpur,<br>Wilayah Persekutuan Kuala Lumpur",
+        "description": "Vestibulum nec augue sem. Morbi ut porta ante, et ullamcorper erat. Etiam tincidunt, augue vitae consectetur bibendum, nulla enim pharetra quam, vitae ultricies leo dui sit amet mi. Proin ornare sapien vel metus interdum, at faucibus tellus sollicitudin. Phasellus eget nulla ac lacus faucibus tempus. Donec ante erat, cursus sit amet vulputate quis, iaculis eu diam. Sed pellentesque tortor ligula, ac euismod mauris accumsan et. Aliquam eu ultrices odio. Nulla lobortis vestibulum enim, ac semper magna ultrices ut.",
+        "imageURL": "sample-mall-2.jpg",
+        "coordinate": {
+          "lat": 3.2132744,
+          "lng": 101.6390818
+        }
+      }
+    },
+    {
+      "ÆON Wangsa Maju & Alpha Angle Shopping Centre": {
+        "address": "Jalan R1, Wangsa Maju,<br>53300 Kuala Lumpur,<br>Wilayah Persekutuan Kuala Lumpur",
+        "description": "Vestibulum nec augue sem. Morbi ut porta ante, et ullamcorper erat. Etiam tincidunt, augue vitae consectetur bibendum, nulla enim pharetra quam, vitae ultricies leo dui sit amet mi. Proin ornare sapien vel metus interdum, at faucibus tellus sollicitudin. Phasellus eget nulla ac lacus faucibus tempus. Donec ante erat, cursus sit amet vulputate quis, iaculis eu diam. Sed pellentesque tortor ligula, ac euismod mauris accumsan et. Aliquam eu ultrices odio. Nulla lobortis vestibulum enim, ac semper magna ultrices ut.",
+        "imageURL": "sample-mall-3.jpg",
+        "coordinate": {
+          "lat": 3.2022134,
+          "lng": 101.733985
+        }
+      }
+    },
+    {
+      "Ampang Park": {
+        "address": "Jalan Ampang,<br>Hampshire Park,<br>50450 Kuala Lumpur,<br>Wilayah Persekutuan Kuala Lumpur",
+        "description": "Vestibulum nec augue sem. Morbi ut porta ante, et ullamcorper erat. Etiam tincidunt, augue vitae consectetur bibendum, nulla enim pharetra quam, vitae ultricies leo dui sit amet mi. Proin ornare sapien vel metus interdum, at faucibus tellus sollicitudin. Phasellus eget nulla ac lacus faucibus tempus. Donec ante erat, cursus sit amet vulputate quis, iaculis eu diam. Sed pellentesque tortor ligula, ac euismod mauris accumsan et. Aliquam eu ultrices odio. Nulla lobortis vestibulum enim, ac semper magna ultrices ut.",
+        "imageURL": "sample-mall-1.jpg",
+        "coordinate": {
+          "lat": 3.160831,
+          "lng": 101.718982
+        }
+      }
+    },
+    {
+      "Avenue K Shopping Centre": {
+        "address": "456, Jalan Ampang,<br>Kampung Baru,<br>50450 Kuala Lumpur,<br>Wilayah Persekutuan Kuala Lumpur",
+        "description": "Vestibulum nec augue sem. Morbi ut porta ante, et ullamcorper erat. Etiam tincidunt, augue vitae consectetur bibendum, nulla enim pharetra quam, vitae ultricies leo dui sit amet mi. Proin ornare sapien vel metus interdum, at faucibus tellus sollicitudin. Phasellus eget nulla ac lacus faucibus tempus. Donec ante erat, cursus sit amet vulputate quis, iaculis eu diam. Sed pellentesque tortor ligula, ac euismod mauris accumsan et. Aliquam eu ultrices odio. Nulla lobortis vestibulum enim, ac semper magna ultrices ut.",
+        "imageURL": "sample-mall-2.jpg",
+        "coordinate": {
+          "lat": 3.159306,
+          "lng": 101.713310
+        }
+      }
+    },
+    {
+      "Bangsar Shopping Centre": {
+        "address": "Jalan Maarof, Taman Sa,<br>59000 Kuala Lumpur,<br>Wilayah Persekutuan Kuala Lumpur",
+        "description": "Vestibulum nec augue sem. Morbi ut porta ante, et ullamcorper erat. Etiam tincidunt, augue vitae consectetur bibendum, nulla enim pharetra quam, vitae ultricies leo dui sit amet mi. Proin ornare sapien vel metus interdum, at faucibus tellus sollicitudin. Phasellus eget nulla ac lacus faucibus tempus. Donec ante erat, cursus sit amet vulputate quis, iaculis eu diam. Sed pellentesque tortor ligula, ac euismod mauris accumsan et. Aliquam eu ultrices odio. Nulla lobortis vestibulum enim, ac semper magna ultrices ut.",
+        "imageURL": "sample-mall-3.jpg",
+        "coordinate": {
+          "lat": 3.143131,
+          "lng": 101.667325
+        }
+      }
+    },
+    {
+      "Bangsar Village": {
+        "address": "1, Jalan Telawi 1,<br>Bangsar Baru,<br>59100 Kuala Lumpur,<br>Wilayah Persekutuan Kuala Lumpur",
+        "description": "Vestibulum nec augue sem. Morbi ut porta ante, et ullamcorper erat. Etiam tincidunt, augue vitae consectetur bibendum, nulla enim pharetra quam, vitae ultricies leo dui sit amet mi. Proin ornare sapien vel metus interdum, at faucibus tellus sollicitudin. Phasellus eget nulla ac lacus faucibus tempus. Donec ante erat, cursus sit amet vulputate quis, iaculis eu diam. Sed pellentesque tortor ligula, ac euismod mauris accumsan et. Aliquam eu ultrices odio. Nulla lobortis vestibulum enim, ac semper magna ultrices ut.",
+        "imageURL": "sample-mall-1.jpg",
+        "coordinate": {
+          "lat": 3.129485,
+          "lng": 101.670724
+        }
+      }
+    },
+    {
+      "Berjaya Times Square": {
+        "address": "Jalan Imbi, Imbi,<br>55100 Kuala Lumpur,<br>Wilayah Persekutuan Kuala Lumpur",
+        "description": "Vestibulum nec augue sem. Morbi ut porta ante, et ullamcorper erat. Etiam tincidunt, augue vitae consectetur bibendum, nulla enim pharetra quam, vitae ultricies leo dui sit amet mi. Proin ornare sapien vel metus interdum, at faucibus tellus sollicitudin. Phasellus eget nulla ac lacus faucibus tempus. Donec ante erat, cursus sit amet vulputate quis, iaculis eu diam. Sed pellentesque tortor ligula, ac euismod mauris accumsan et. Aliquam eu ultrices odio. Nulla lobortis vestibulum enim, ac semper magna ultrices ut.",
+        "imageURL": "sample-mall-2.jpg",
+        "coordinate": {
+          "lat": 3.142413,
+          "lng": 101.710581
+        }
+      }
+    },
+    {
+      "Brem Shopping Centre": {
+        "address": "Jalan Kepong, Jinjang Selatan,<br>52000 Kuala Lumpur,<br>Wilayah Persekutuan Kuala Lumpur",
+        "description": "Vestibulum nec augue sem. Morbi ut porta ante, et ullamcorper erat. Etiam tincidunt, augue vitae consectetur bibendum, nulla enim pharetra quam, vitae ultricies leo dui sit amet mi. Proin ornare sapien vel metus interdum, at faucibus tellus sollicitudin. Phasellus eget nulla ac lacus faucibus tempus. Donec ante erat, cursus sit amet vulputate quis, iaculis eu diam. Sed pellentesque tortor ligula, ac euismod mauris accumsan et. Aliquam eu ultrices odio. Nulla lobortis vestibulum enim, ac semper magna ultrices ut.",
+        "imageURL": "sample-mall-3.jpg",
+        "coordinate": {
+          "lat": 3.204503,
+          "lng": 101.667250
+        }
+      }
+    },
+    {
+      "Bukit Bintang Plaza": {
+        "address": "Bukit Bintang,<br>55100 Jalan Bukit Bintang,<br>Wilayah Persekutuan Kuala Lumpur",
+        "description": "Vestibulum nec augue sem. Morbi ut porta ante, et ullamcorper erat. Etiam tincidunt, augue vitae consectetur bibendum, nulla enim pharetra quam, vitae ultricies leo dui sit amet mi. Proin ornare sapien vel metus interdum, at faucibus tellus sollicitudin. Phasellus eget nulla ac lacus faucibus tempus. Donec ante erat, cursus sit amet vulputate quis, iaculis eu diam. Sed pellentesque tortor ligula, ac euismod mauris accumsan et. Aliquam eu ultrices odio. Nulla lobortis vestibulum enim, ac semper magna ultrices ut.",
+        "imageURL": "sample-mall-1.jpg",
+        "coordinate": {
+          "lat": 3.145594,
+          "lng": 101.710735
+        }
+      }
+    },
+    {
+      "Cap Square": {
+        "address": "Persiaran Capsquare,<br>Capital Square,<br>50250 Kuala Lumpur,<br>Wilayah Persekutuan Kuala Lumpur",
+        "description": "Vestibulum nec augue sem. Morbi ut porta ante, et ullamcorper erat. Etiam tincidunt, augue vitae consectetur bibendum, nulla enim pharetra quam, vitae ultricies leo dui sit amet mi. Proin ornare sapien vel metus interdum, at faucibus tellus sollicitudin. Phasellus eget nulla ac lacus faucibus tempus. Donec ante erat, cursus sit amet vulputate quis, iaculis eu diam. Sed pellentesque tortor ligula, ac euismod mauris accumsan et. Aliquam eu ultrices odio. Nulla lobortis vestibulum enim, ac semper magna ultrices ut.",
+        "imageURL": "sample-mall-2.jpg",
+        "coordinate": {
+          "lat": 3.154164,
+          "lng": 101.700145
+        }
+      }
+    },
+    {
+      "Cheras Leisure Mall": {
+        "address": "6, Jalan Manis, Taman Segar,<br>56100 Kuala Lumpur,<br>Wilayah Persekutuan Kuala Lumpur",
+        "description": "Vestibulum nec augue sem. Morbi ut porta ante, et ullamcorper erat. Etiam tincidunt, augue vitae consectetur bibendum, nulla enim pharetra quam, vitae ultricies leo dui sit amet mi. Proin ornare sapien vel metus interdum, at faucibus tellus sollicitudin. Phasellus eget nulla ac lacus faucibus tempus. Donec ante erat, cursus sit amet vulputate quis, iaculis eu diam. Sed pellentesque tortor ligula, ac euismod mauris accumsan et. Aliquam eu ultrices odio. Nulla lobortis vestibulum enim, ac semper magna ultrices ut.",
+        "imageURL": "sample-mall-3.jpg",
+        "coordinate": {
+          "lat": 3.090962,
+          "lng": 101.74245
+        }
+      }
+    },
+    {
+      "Cheras Sentral Mall": {
+        "address": "Jalan 2/142a, Taman Len Seng,<br>56000 Kuala Lumpur,<br>Wilayah Persekutuan Kuala Lumpur",
+        "description": "Vestibulum nec augue sem. Morbi ut porta ante, et ullamcorper erat. Etiam tincidunt, augue vitae consectetur bibendum, nulla enim pharetra quam, vitae ultricies leo dui sit amet mi. Proin ornare sapien vel metus interdum, at faucibus tellus sollicitudin. Phasellus eget nulla ac lacus faucibus tempus. Donec ante erat, cursus sit amet vulputate quis, iaculis eu diam. Sed pellentesque tortor ligula, ac euismod mauris accumsan et. Aliquam eu ultrices odio. Nulla lobortis vestibulum enim, ac semper magna ultrices ut.",
+        "imageURL": "sample-mall-1.jpg",
+        "coordinate": {
+          "lat": 3.078371,
+          "lng": 101.744926
+        }
+      }
+    },
+    {
+      "Damansara City Mall": {
+        "address": "Damansara Town Centre,<br>50490 Kuala Lumpur,<br>Wilayah Persekutuan Kuala Lumpur",
+        "description": "Vestibulum nec augue sem. Morbi ut porta ante, et ullamcorper erat. Etiam tincidunt, augue vitae consectetur bibendum, nulla enim pharetra quam, vitae ultricies leo dui sit amet mi. Proin ornare sapien vel metus interdum, at faucibus tellus sollicitudin. Phasellus eget nulla ac lacus faucibus tempus. Donec ante erat, cursus sit amet vulputate quis, iaculis eu diam. Sed pellentesque tortor ligula, ac euismod mauris accumsan et. Aliquam eu ultrices odio. Nulla lobortis vestibulum enim, ac semper magna ultrices ut.",
+        "imageURL": "sample-mall-2.jpg",
+        "coordinate": {
+          "lat": 3.146106,
+          "lng": 101.661780
+        }
+      }
+    },
+    {
+      "Empire City Damansara": {
+        "address": "No.8, Jalan Damansara,<br>Empire City PJU 8,<br>47820 Petaling Jaya,<br>Selangor",
+        "description": "Vestibulum nec augue sem. Morbi ut porta ante, et ullamcorper erat. Etiam tincidunt, augue vitae consectetur bibendum, nulla enim pharetra quam, vitae ultricies leo dui sit amet mi. Proin ornare sapien vel metus interdum, at faucibus tellus sollicitudin. Phasellus eget nulla ac lacus faucibus tempus. Donec ante erat, cursus sit amet vulputate quis, iaculis eu diam. Sed pellentesque tortor ligula, ac euismod mauris accumsan et. Aliquam eu ultrices odio. Nulla lobortis vestibulum enim, ac semper magna ultrices ut.",
+        "imageURL": "sample-mall-3.jpg",
+        "coordinate": {
+          "lat": 3.167834,
+          "lng": 101.615577
+        }
+      }
+    },
+    {
+      "Eco City (under construction)": {
+        "address": "Setia International Centre,<br>Lot 215, Pantai Baru, Jalan Bangsar,<br>59200 Kuala Lumpur,<br>Wilayah Persekutuan Kuala Lumpur",
+        "description": "Vestibulum nec augue sem. Morbi ut porta ante, et ullamcorper erat. Etiam tincidunt, augue vitae consectetur bibendum, nulla enim pharetra quam, vitae ultricies leo dui sit amet mi. Proin ornare sapien vel metus interdum, at faucibus tellus sollicitudin. Phasellus eget nulla ac lacus faucibus tempus. Donec ante erat, cursus sit amet vulputate quis, iaculis eu diam. Sed pellentesque tortor ligula, ac euismod mauris accumsan et. Aliquam eu ultrices odio. Nulla lobortis vestibulum enim, ac semper magna ultrices ut.",
+        "imageURL": "sample-mall-1.jpg",
+        "coordinate": {
+          "lat": 3.1159605,
+          "lng": 101.67416
+        }
+      }
+    },
+    {
+      "Endah Parade": {
+        "address": "1, Jalan 1/149e,<br>Taman Sri Endah,<br>57000 Kuala Lumpur,<br>Wilayah Persekutuan Kuala Lumpur",
+        "description": "Vestibulum nec augue sem. Morbi ut porta ante, et ullamcorper erat. Etiam tincidunt, augue vitae consectetur bibendum, nulla enim pharetra quam, vitae ultricies leo dui sit amet mi. Proin ornare sapien vel metus interdum, at faucibus tellus sollicitudin. Phasellus eget nulla ac lacus faucibus tempus. Donec ante erat, cursus sit amet vulputate quis, iaculis eu diam. Sed pellentesque tortor ligula, ac euismod mauris accumsan et. Aliquam eu ultrices odio. Nulla lobortis vestibulum enim, ac semper magna ultrices ut.",
+        "imageURL": "sample-mall-2.jpg",
+        "coordinate": {
+          "lat": 3.063266,
+          "lng": 101.695019
+        }
+      }
+    },
+    {
+      "Fahrenheit88": {
+        "address": "179, Bukit Bintang Street,<br>Bukit Bintang,<br>55100 Kuala Lumpur,<br>Wilayah Persekutuan Kuala Lumpur",
+        "description": "Vestibulum nec augue sem. Morbi ut porta ante, et ullamcorper erat. Etiam tincidunt, augue vitae consectetur bibendum, nulla enim pharetra quam, vitae ultricies leo dui sit amet mi. Proin ornare sapien vel metus interdum, at faucibus tellus sollicitudin. Phasellus eget nulla ac lacus faucibus tempus. Donec ante erat, cursus sit amet vulputate quis, iaculis eu diam. Sed pellentesque tortor ligula, ac euismod mauris accumsan et. Aliquam eu ultrices odio. Nulla lobortis vestibulum enim, ac semper magna ultrices ut.",
+        "imageURL": "sample-mall-3.jpg",
+        "coordinate": {
+          "lat": 3.147129,
+          "lng": 101.71245
+        }
+      }
+    },
+    {
+      "Four Seasons Place (under construction)": {
+        "address": "Kuala Lumpur City Centre,<br>50088 Kuala Lumpur,<br>Wilayah Persekutuan Kuala Lumpur",
+        "description": "Vestibulum nec augue sem. Morbi ut porta ante, et ullamcorper erat. Etiam tincidunt, augue vitae consectetur bibendum, nulla enim pharetra quam, vitae ultricies leo dui sit amet mi. Proin ornare sapien vel metus interdum, at faucibus tellus sollicitudin. Phasellus eget nulla ac lacus faucibus tempus. Donec ante erat, cursus sit amet vulputate quis, iaculis eu diam. Sed pellentesque tortor ligula, ac euismod mauris accumsan et. Aliquam eu ultrices odio. Nulla lobortis vestibulum enim, ac semper magna ultrices ut.",
+        "imageURL": "sample-mall-1.jpg",
+        "coordinate": {
+          "lat": 3.158109,
+          "lng": 101.713804
+        }
+      }
+    },
+    {
+      "Great Eastern Mall": {
+        "address": "303, Jalan Ampang,<br>Desa Pahlawan,<br>55000 Kuala Lumpur,<br>Wilayah Persekutuan Kuala Lumpur",
+        "description": "Vestibulum nec augue sem. Morbi ut porta ante, et ullamcorper erat. Etiam tincidunt, augue vitae consectetur bibendum, nulla enim pharetra quam, vitae ultricies leo dui sit amet mi. Proin ornare sapien vel metus interdum, at faucibus tellus sollicitudin. Phasellus eget nulla ac lacus faucibus tempus. Donec ante erat, cursus sit amet vulputate quis, iaculis eu diam. Sed pellentesque tortor ligula, ac euismod mauris accumsan et. Aliquam eu ultrices odio. Nulla lobortis vestibulum enim, ac semper magna ultrices ut.",
+        "imageURL": "sample-mall-2.jpg",
+        "coordinate": {
+          "lat": 3.160072,
+          "lng": 101.736762
+        }
+      }
+    },
+    {
+      "Hartamas Shopping Centre": {
+        "address": "60, Jalan Sri Hartamas 1,<br>Taman Sri Hartamas,<br>50480 Kuala Lumpur,<br>Wilayah Persekutuan Kuala Lumpur",
+        "description": "Vestibulum nec augue sem. Morbi ut porta ante, et ullamcorper erat. Etiam tincidunt, augue vitae consectetur bibendum, nulla enim pharetra quam, vitae ultricies leo dui sit amet mi. Proin ornare sapien vel metus interdum, at faucibus tellus sollicitudin. Phasellus eget nulla ac lacus faucibus tempus. Donec ante erat, cursus sit amet vulputate quis, iaculis eu diam. Sed pellentesque tortor ligula, ac euismod mauris accumsan et. Aliquam eu ultrices odio. Nulla lobortis vestibulum enim, ac semper magna ultrices ut.",
+        "imageURL": "sample-mall-3.jpg",
+        "coordinate": {
+          "lat": 3.163604,
+          "lng": 101.65661
+        }
+      }
+    },
+    {
+      "IKEA Cheras": {
+        "address": "2A, Jalan Cochrane, Maluri,<br>55100 Kuala Lumpur,<br>Wilayah Persekutuan Kuala Lumpur",
+        "description": "Vestibulum nec augue sem. Morbi ut porta ante, et ullamcorper erat. Etiam tincidunt, augue vitae consectetur bibendum, nulla enim pharetra quam, vitae ultricies leo dui sit amet mi. Proin ornare sapien vel metus interdum, at faucibus tellus sollicitudin. Phasellus eget nulla ac lacus faucibus tempus. Donec ante erat, cursus sit amet vulputate quis, iaculis eu diam. Sed pellentesque tortor ligula, ac euismod mauris accumsan et. Aliquam eu ultrices odio. Nulla lobortis vestibulum enim, ac semper magna ultrices ut.",
+        "imageURL": "sample-mall-1.jpg",
+        "coordinate": {
+          "lat": 3.135076,
+          "lng": 101.721144
+        }
+      }
+    },
+    {
+      "Imbi Plaza": {
+        "address": "Jalan Imbi, Bukit Bintang,<br>55100 Kuala Lumpur,<br>Wilayah Persekutuan Kuala Lumpur",
+        "description": "Vestibulum nec augue sem. Morbi ut porta ante, et ullamcorper erat. Etiam tincidunt, augue vitae consectetur bibendum, nulla enim pharetra quam, vitae ultricies leo dui sit amet mi. Proin ornare sapien vel metus interdum, at faucibus tellus sollicitudin. Phasellus eget nulla ac lacus faucibus tempus. Donec ante erat, cursus sit amet vulputate quis, iaculis eu diam. Sed pellentesque tortor ligula, ac euismod mauris accumsan et. Aliquam eu ultrices odio. Nulla lobortis vestibulum enim, ac semper magna ultrices ut.",
+        "imageURL": "sample-mall-2.jpg",
+        "coordinate": {
+          "lat": 3.143800,
+          "lng": 101.71123
+        }
+      }
+    },
+    {
+      "Intermark Mall": {
+        "address": "348, Jalan Tun Razak,<br>50400 Kuala Lumpur,<br>Wilayah Persekutuan Kuala Lumpur",
+        "description": "Vestibulum nec augue sem. Morbi ut porta ante, et ullamcorper erat. Etiam tincidunt, augue vitae consectetur bibendum, nulla enim pharetra quam, vitae ultricies leo dui sit amet mi. Proin ornare sapien vel metus interdum, at faucibus tellus sollicitudin. Phasellus eget nulla ac lacus faucibus tempus. Donec ante erat, cursus sit amet vulputate quis, iaculis eu diam. Sed pellentesque tortor ligula, ac euismod mauris accumsan et. Aliquam eu ultrices odio. Nulla lobortis vestibulum enim, ac semper magna ultrices ut.",
+        "imageURL": "sample-mall-3.jpg",
+        "coordinate": {
+          "lat": 3.160912,
+          "lng": 101.72027
+        }
+      }
+    },
+    {
+      "Kenanga Wholesale City": {
+        "address": "2, Jalan Gelugor, Pudu,<br>55200 Kuala Lumpur,<br>Wilayah Persekutuan Kuala Lumpur",
+        "description": "Vestibulum nec augue sem. Morbi ut porta ante, et ullamcorper erat. Etiam tincidunt, augue vitae consectetur bibendum, nulla enim pharetra quam, vitae ultricies leo dui sit amet mi. Proin ornare sapien vel metus interdum, at faucibus tellus sollicitudin. Phasellus eget nulla ac lacus faucibus tempus. Donec ante erat, cursus sit amet vulputate quis, iaculis eu diam. Sed pellentesque tortor ligula, ac euismod mauris accumsan et. Aliquam eu ultrices odio. Nulla lobortis vestibulum enim, ac semper magna ultrices ut.",
+        "imageURL": "sample-mall-1.jpg",
+        "coordinate": {
+          "lat": 3.136449,
+          "lng": 101.70796
+        }
+      }
+    },
+    {
+      "KL Gateway": {
+        "address": "2, Jalan Kerinchi, Pantai Dalam,<br>59200 Kuala Lumpur,<br>Wilayah Persekutuan Kuala Lumpur",
+        "description": "Vestibulum nec augue sem. Morbi ut porta ante, et ullamcorper erat. Etiam tincidunt, augue vitae consectetur bibendum, nulla enim pharetra quam, vitae ultricies leo dui sit amet mi. Proin ornare sapien vel metus interdum, at faucibus tellus sollicitudin. Phasellus eget nulla ac lacus faucibus tempus. Donec ante erat, cursus sit amet vulputate quis, iaculis eu diam. Sed pellentesque tortor ligula, ac euismod mauris accumsan et. Aliquam eu ultrices odio. Nulla lobortis vestibulum enim, ac semper magna ultrices ut.",
+        "imageURL": "sample-mall-2.jpg",
+        "coordinate": {
+          "lat": 3.113735,
+          "lng": 101.66294
+        }
+      }
+    },
+    {
+      "Lot 10": {
+        "address": "50, Bukit Bintang Street,<br>Bukit Bintang,<br>55100 Kuala Lumpur,<br>Wilayah Persekutuan Kuala Lumpur",
+        "description": "Vestibulum nec augue sem. Morbi ut porta ante, et ullamcorper erat. Etiam tincidunt, augue vitae consectetur bibendum, nulla enim pharetra quam, vitae ultricies leo dui sit amet mi. Proin ornare sapien vel metus interdum, at faucibus tellus sollicitudin. Phasellus eget nulla ac lacus faucibus tempus. Donec ante erat, cursus sit amet vulputate quis, iaculis eu diam. Sed pellentesque tortor ligula, ac euismod mauris accumsan et. Aliquam eu ultrices odio. Nulla lobortis vestibulum enim, ac semper magna ultrices ut.",
+        "imageURL": "sample-mall-3.jpg",
+        "coordinate": {
+          "lat": 3.146484,
+          "lng": 101.711793
+        }
+      }
+    },
+    {
+      "Low Yat Plaza": {
+        "address": "7, Jalan Bintang,<br>Bukit Bintang,<br>55100 Kuala Lumpur,<br>Wilayah Persekutuan Kuala Lumpur",
+        "description": "Vestibulum nec augue sem. Morbi ut porta ante, et ullamcorper erat. Etiam tincidunt, augue vitae consectetur bibendum, nulla enim pharetra quam, vitae ultricies leo dui sit amet mi. Proin ornare sapien vel metus interdum, at faucibus tellus sollicitudin. Phasellus eget nulla ac lacus faucibus tempus. Donec ante erat, cursus sit amet vulputate quis, iaculis eu diam. Sed pellentesque tortor ligula, ac euismod mauris accumsan et. Aliquam eu ultrices odio. Nulla lobortis vestibulum enim, ac semper magna ultrices ut.",
+        "imageURL": "sample-mall-1.jpg",
+        "coordinate": {
+          "lat": 3.144041,
+          "lng": 101.709907
+        }
+      }
+    },
+    {
+      "M3 Mall": {
+        "address": "67, Jalan Madrasah,<br>Gombak Setia,<br>53100 Kuala Lumpur,<br>Wilayah Persekutuan Kuala Lumpur",
+        "description": "Vestibulum nec augue sem. Morbi ut porta ante, et ullamcorper erat. Etiam tincidunt, augue vitae consectetur bibendum, nulla enim pharetra quam, vitae ultricies leo dui sit amet mi. Proin ornare sapien vel metus interdum, at faucibus tellus sollicitudin. Phasellus eget nulla ac lacus faucibus tempus. Donec ante erat, cursus sit amet vulputate quis, iaculis eu diam. Sed pellentesque tortor ligula, ac euismod mauris accumsan et. Aliquam eu ultrices odio. Nulla lobortis vestibulum enim, ac semper magna ultrices ut.",
+        "imageURL": "sample-mall-2.jpg",
+        "coordinate": {
+          "lat": 3.217730,
+          "lng": 101.718754
+        }
+      }
+    },
+    {
+      "Mid Valley Megamall": {
+        "address": "1, Lingkaran Syed Putra,<br>Mid Valley City,<br>58000 Kuala Lumpur,<br>Wilayah Persekutuan Kuala Lumpur",
+        "description": "Vestibulum nec augue sem. Morbi ut porta ante, et ullamcorper erat. Etiam tincidunt, augue vitae consectetur bibendum, nulla enim pharetra quam, vitae ultricies leo dui sit amet mi. Proin ornare sapien vel metus interdum, at faucibus tellus sollicitudin. Phasellus eget nulla ac lacus faucibus tempus. Donec ante erat, cursus sit amet vulputate quis, iaculis eu diam. Sed pellentesque tortor ligula, ac euismod mauris accumsan et. Aliquam eu ultrices odio. Nulla lobortis vestibulum enim, ac semper magna ultrices ut.",
+        "imageURL": "sample-mall-3.jpg",
+        "coordinate": {
+          "lat": 3.117440,
+          "lng": 101.677492
+        }
+      }
+    },
+    {
+      "MyTOWN Shopping Centre": {
+        "address": "Seksyen 90, Jalan Cochrane, Cheras,<br>55100 Kuala Lumpur,<br>Wilayah Persekutuan Kuala Lumpur",
+        "description": "Vestibulum nec augue sem. Morbi ut porta ante, et ullamcorper erat. Etiam tincidunt, augue vitae consectetur bibendum, nulla enim pharetra quam, vitae ultricies leo dui sit amet mi. Proin ornare sapien vel metus interdum, at faucibus tellus sollicitudin. Phasellus eget nulla ac lacus faucibus tempus. Donec ante erat, cursus sit amet vulputate quis, iaculis eu diam. Sed pellentesque tortor ligula, ac euismod mauris accumsan et. Aliquam eu ultrices odio. Nulla lobortis vestibulum enim, ac semper magna ultrices ut.",
+        "imageURL": "sample-mall-1.jpg",
+        "coordinate": {
+          "lat": 3.134096,
+          "lng": 101.72273
+        }
+      }
+    },
+    {
+      "NU Sentral": {
+        "address": "201, Jalan Tun Sambanthan,<br>Brickfields,<br>50470 Kuala Lumpur,<br>Wilayah Persekutuan Kuala Lumpur",
+        "description": "Vestibulum nec augue sem. Morbi ut porta ante, et ullamcorper erat. Etiam tincidunt, augue vitae consectetur bibendum, nulla enim pharetra quam, vitae ultricies leo dui sit amet mi. Proin ornare sapien vel metus interdum, at faucibus tellus sollicitudin. Phasellus eget nulla ac lacus faucibus tempus. Donec ante erat, cursus sit amet vulputate quis, iaculis eu diam. Sed pellentesque tortor ligula, ac euismod mauris accumsan et. Aliquam eu ultrices odio. Nulla lobortis vestibulum enim, ac semper magna ultrices ut.",
+        "imageURL": "sample-mall-2.jpg",
+        "coordinate": {
+          "lat": 3.133219,
+          "lng": 101.68686
+        }
+      }
+    },
+    {
+      "Parkson Maju Junction Shopping Centre": {
+        "address": "1001, Jalan Sultan Ismail, Chow Kit,<br>50250 Kuala Lumpur,<br>Wilayah Persekutuan Kuala Lumpur",
+        "description": "Vestibulum nec augue sem. Morbi ut porta ante, et ullamcorper erat. Etiam tincidunt, augue vitae consectetur bibendum, nulla enim pharetra quam, vitae ultricies leo dui sit amet mi. Proin ornare sapien vel metus interdum, at faucibus tellus sollicitudin. Phasellus eget nulla ac lacus faucibus tempus. Donec ante erat, cursus sit amet vulputate quis, iaculis eu diam. Sed pellentesque tortor ligula, ac euismod mauris accumsan et. Aliquam eu ultrices odio. Nulla lobortis vestibulum enim, ac semper magna ultrices ut.",
+        "imageURL": "sample-mall-3.jpg",
+        "coordinate": {
+          "lat": 3.159263,
+          "lng": 101.696212
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+<ng-container ng-controller="descriptionController">
+  <h3 class="title"><i class="material-icons">store_mall_directory</i> {{ $ctrl.locationObj.name }}</h3>
+  <div class="content">
+    <div class="image-area" style="background-image:url('{{ $ctrl.locationObj.imageURL }}')"></div>
+    <div class="text-area">
+      <div class="address-area" ng-bind-html="$ctrl.locationObj.address"></div>
+      <div class="description-area">
+        {{ $ctrl.locationObj.description }}
+      </div>
+    </div>
+  </div>
+  <a class="close-description" ng-click="hideDescription()"><i class="material-icons">keyboard_arrow_down</i></a>
+</ng-container>
